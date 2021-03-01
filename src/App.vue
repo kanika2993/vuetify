@@ -7,7 +7,9 @@
       <v-btn text rounded to="/home">Home</v-btn>
       <v-btn text rounded to="/about">About</v-btn>
       <v-btn text rounded to="/login">Login</v-btn>
+      <v-btn text rounded to="/login">SignUp</v-btn>      
       <v-btn text rounded to="/login">SignUp</v-btn>
+
     </v-app-bar>
     <v-content> 
       <router-view ></router-view>   
